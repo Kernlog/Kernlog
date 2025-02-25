@@ -40,8 +40,7 @@
 
 <!-- Added blockchain-specific tools -->
 <a href="https://docs.solana.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png" alt="solana" width="40" height="40"/></a>
-<a href="https://project-serum.github.io/anchor/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/coral-xyz/anchor/master/docs/public/favicon.ico" alt="anchor" width="40" height="40"/></a>
-<a href="https://ethereum.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ethereum/ethereum-org-website/dev/src/assets/favicon.png" alt="ethereum" width="40" height="40"/></a>
+<a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" alt="ethereum" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kernlog&show_icons=true&locale=en&layout=compact" alt="kernlog" /></p>

@@ -39,9 +39,9 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
 <!-- Added blockchain-specific tools -->
-<a href="https://docs.solana.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png" alt="solana" width="40" height="40"/> </a>
-<a href="https://project-serum.github.io/anchor/" target="_blank" rel="noreferrer"> <img src="https://www.anchor-lang.com/logo.png" alt="anchor" width="40" height="40"/> </a>
-<a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://ethereum.org/static/6b935ac0e6194247347855dc3d328e83/13c43/eth-diamond-black.png" alt="ethereum" width="40" height="40"/> </a>
+<a href="https://docs.solana.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png" alt="solana" width="40" height="40"/></a>
+<a href="https://project-serum.github.io/anchor/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/uDPh7vP.png" alt="anchor" width="40" height="40"/></a>
+<a href="https://ethereum.org/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/TC1qyjE.png" alt="ethereum" width="40" height="40"/></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kernlog&show_icons=true&locale=en&layout=compact" alt="kernlog" /></p>

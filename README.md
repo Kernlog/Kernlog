@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hey, I'm Kernlog 👋
 
-<h3 align="center">I'm a passionate developer from Canada</h3>
+<h3 align="center">A passionate Software Engineer from Canada</h3>
 
 - 🔭 I’m currently working on **containerized GPU optimization**
 

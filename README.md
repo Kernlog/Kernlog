@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **containerized GPU optimization**
 
-- 🌱 I’m currently learning **web3, agentic frameworks, LLM deployment strategies **
+- 🌱 I’m currently learning **web3, agentic frameworks, LLM deployment strategies**
 
 - 💬 Ask me about **cloud-native tech (docker / kubernetes / openshift) & CI/CD pipelines**
 

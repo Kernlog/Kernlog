@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **containerized GPU optimization**
 
-- 🌱 I’m currently learning **web3, agentic frameworks, DSA**
+- 🌱 I’m currently learning **web3, agentic frameworks, LLM deployment strategies **
 
-- 💬 Ask me about **cloud infrastructure (docker / kubernetes / openshift / jenkins etc)**
+- 💬 Ask me about **cloud-native tech (docker / kubernetes / openshift) & CI/CD pipelines**
 
 - 📫 How to reach me **0xkernlog@gmail.com**
 

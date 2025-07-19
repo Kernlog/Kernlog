@@ -1,12 +1,11 @@
 ## Hey, I'm Kernlog 👋
 
-<h3 align="center">A passionate Software Engineer from Canada</h3>
+<h3 align="center">A Software Engineer from Toronto, Canada</h3>
 
-- 🔭 I’m currently working on **containerized GPU optimization**
-
-- 🌱 I’m currently learning **web3, agentic frameworks, LLM deployment strategies**
-
-- 💬 Ask me about **cloud-native tech (docker / kubernetes / openshift) & CI/CD pipelines**
+- 🌱 Focused on web3 technologies and blockchain protocols
+- 🔧 Developing CI/CD pipelines and blockchain applications
+- ⚙️ Focused on compiler design and kernel development
+- 💬 Ask me about Cloud-Native tooling
 
 - 📫 How to reach me **0xkernlog@gmail.com**
 

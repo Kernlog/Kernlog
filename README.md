@@ -9,11 +9,6 @@ Software engineer and CS student at TMU, currently at [Print.World](https://prin
 
 [Website](https://erzumshirazi.dev) · [Writing](https://erzumshirazi.dev/writing) · [LinkedIn](https://www.linkedin.com/in/ErzShiraz) · [Email](mailto:erzum5.shirazi@gmail.com)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://erzumshirazi.dev/github/divider-dark.svg">
-  <img alt="" src="https://erzumshirazi.dev/github/divider-light.svg" width="100%">
-</picture>
-
 ### Now
 
 - **[Print.World](https://print.world)**: the trading engine under the terminal. Real-time market data, caching, and execution in Rust and TypeScript.

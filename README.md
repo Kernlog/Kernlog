@@ -25,7 +25,7 @@ Software engineer and CS student at TMU, currently at [Print.World](https://prin
 
 ### Open source
 
-- **[Typhoon](https://github.com/aursen-labs/typhoon)**: merged [#182](https://github.com/aursen-labs/typhoon/pull/182) and [#192](https://github.com/aursen-labs/typhoon/pull/192), inlining account validation and macro-generated code to save 128+ compute units across instructions.
+- **[Typhoon](https://github.com/aursen-labs/typhoon)**: contributed performance work to this Rust framework for Solana programs, making account validation and generated code leaner so programs spend fewer compute units.
 - **[brdg-sdk](https://github.com/Kernlog/brdg-sdk)**: a dependency-free TypeScript client for BRDG, generated from its OpenAPI spec.
 
 ### Before this

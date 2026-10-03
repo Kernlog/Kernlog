@@ -7,7 +7,7 @@
 
 Software engineer and CS student at TMU, currently at [Print.World](https://print.world) working in Rust and TypeScript on real-time backend systems. Previously IBM and Nokia. I care about performance, reliability, and the trade-offs between them.
 
-[Website](https://erzumshirazi.dev) · [Writing](https://erzumshirazi.dev/writing) · [LinkedIn](https://www.linkedin.com/in/ErzShiraz) · [Email](mailto:erzum5.shirazi@gmail.com)
+[Website](https://erzumshirazi.dev) · [Writing](https://erzumshirazi.dev/writing) · [LinkedIn](https://www.linkedin.com/in/ErzShiraz) · [Email](mailto:0xkernlog@gmail.com)
 
 ### Now
 

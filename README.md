@@ -1,17 +1,17 @@
-<a href="https://YOUR-DOMAIN">
+<a href="https://erzumshirazi.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-DOMAIN/github/banner-dark.svg">
-    <img alt="Erzum Shirazi. I build systems that stay fast and stay correct under load." src="https://YOUR-DOMAIN/github/banner-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://erzumshirazi.dev/github/banner-dark.svg">
+    <img alt="Erzum Shirazi. I build systems that stay fast and stay correct under load." src="https://erzumshirazi.dev/github/banner-light.svg" width="100%">
   </picture>
 </a>
 
 Software engineer and CS student at TMU, currently at [Print.World](https://print.world) working in Rust and TypeScript on real-time backend systems. Previously IBM and Nokia. I care about performance, reliability, and the trade-offs between them.
 
-[Website](https://YOUR-DOMAIN) · [Writing](https://YOUR-DOMAIN/writing) · [LinkedIn](https://www.linkedin.com/in/ErzShiraz) · [Email](mailto:erzum5.shirazi@gmail.com)
+[Website](https://erzumshirazi.dev) · [Writing](https://erzumshirazi.dev/writing) · [LinkedIn](https://www.linkedin.com/in/ErzShiraz) · [Email](mailto:erzum5.shirazi@gmail.com)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-DOMAIN/github/divider-dark.svg">
-  <img alt="" src="https://YOUR-DOMAIN/github/divider-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://erzumshirazi.dev/github/divider-dark.svg">
+  <img alt="" src="https://erzumshirazi.dev/github/divider-light.svg" width="100%">
 </picture>
 
 ### Now
@@ -22,11 +22,11 @@ Software engineer and CS student at TMU, currently at [Print.World](https://prin
 
 ### Selected writing
 
-- **[Taking the lock off the hot path](https://YOUR-DOMAIN/writing/taking-the-lock-off-the-hot-path)**: a stress harness, a global lock, and +33% throughput with p99 down from 139ms to 40ms.
-- **[ClickHouse or RocksDB?](https://YOUR-DOMAIN/writing/clickhouse-or-rocksdb)**: moving trade history off TimescaleDB, and arguing the other side first.
-- **[Fix our websocket server, or adopt one?](https://YOUR-DOMAIN/writing/build-or-adopt-the-push-layer)**: streaming order books with sequenced deltas and a live escape hatch.
-- **[Designing for the retry](https://YOUR-DOMAIN/writing/designing-for-the-retry)**: making money paths safe to run twice.
-- **[Sixteen months at IBM](https://YOUR-DOMAIN/writing/sixteen-months-at-ibm)**: CI/CD for Watson, telemetry, and building Watson Code Review on RabbitMQ and OpenShift.
+- **[Taking the lock off the hot path](https://erzumshirazi.dev/writing/taking-the-lock-off-the-hot-path)**: a stress harness, a global lock, and +33% throughput with p99 down from 139ms to 40ms.
+- **[ClickHouse or RocksDB?](https://erzumshirazi.dev/writing/clickhouse-or-rocksdb)**: moving trade history off TimescaleDB, and arguing the other side first.
+- **[Fix our websocket server, or adopt one?](https://erzumshirazi.dev/writing/build-or-adopt-the-push-layer)**: streaming order books with sequenced deltas and a live escape hatch.
+- **[Designing for the retry](https://erzumshirazi.dev/writing/designing-for-the-retry)**: making money paths safe to run twice.
+- **[Sixteen months at IBM](https://erzumshirazi.dev/writing/sixteen-months-at-ibm)**: CI/CD for Watson, telemetry, and building Watson Code Review on RabbitMQ and OpenShift.
 
 ### Open source
 

@@ -17,7 +17,7 @@ Software engineer and CS student at TMU, currently at [Print.World](https://prin
 
 ### Selected writing
 
-- **[Taking the lock off the hot path](https://erzumshirazi.dev/writing/taking-the-lock-off-the-hot-path)**: a stress harness, a global lock, and +33% throughput with p99 down from 139ms to 40ms.
+- **[Taking the lock off the hot path](https://erzumshirazi.dev/writing/taking-the-lock-off-the-hot-path)**: a global lock every swap decode shared, and why removing it took cache lookups from a ~310k/s ceiling to 91M/s.
 - **[ClickHouse or RocksDB?](https://erzumshirazi.dev/writing/clickhouse-or-rocksdb)**: moving trade history off TimescaleDB, and arguing the other side first.
 - **[Fix our websocket server, or adopt one?](https://erzumshirazi.dev/writing/build-or-adopt-the-push-layer)**: streaming order books with sequenced deltas and a live escape hatch.
 - **[Designing for the retry](https://erzumshirazi.dev/writing/designing-for-the-retry)**: making money paths safe to run twice.
